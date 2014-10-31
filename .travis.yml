@@ -6,4 +6,4 @@ jdk:
  - oraclejdk8
 
 script:
- - junit.textui.TestRunner TestSample
+ - java junit.textui.TestRunner TestSample
