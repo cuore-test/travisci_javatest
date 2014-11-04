@@ -6,4 +6,4 @@ jdk:
  - oraclejdk8
 
 script:
- - java -cp lib/junit-4.11.jar;. org.junit.runner.JUnitCore junit.samples.TestSample
+ - ant dist
