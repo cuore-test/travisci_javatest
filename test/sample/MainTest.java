@@ -8,7 +8,7 @@ public class MainTest {
 	@Test
 	public void testNum() {
 		int Num = Main.num();
-		assertEquals(10, Num);
+		assertEquals(20, Num);
 	}
 
 }
